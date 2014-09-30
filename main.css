@@ -1,0 +1,246 @@
+
+/* GOOGLE CLONE 
+Table of Contents 
+
+1. Header 
+2. Structure
+3. Nav
+4. Search 
+5. Headings
+6. Lists
+7. Forms
+8. Links
+9. Type
+10. Misc.
+11. Universal 
+12. Comments 
+
+*/ 
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>> =HEADER  */ 
+
+
+#header {
+	margin: 5px;
+}
+
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>> =STRUCTURE  */ 
+
+
+
+#google {
+	text-align: center;
+}
+
+#main {
+	margin-top: 100px;
+}
+
+section {
+	margin-right: auto;
+	margin-left: auto;
+	width: 480px;
+}
+input {
+	border: 1px solid #3399FF;
+	width: 480px;
+	height: 22px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 15px;
+}
+
+
+
+#bottom_left {
+	float: left;
+	display: inline-block;
+	font-family: arial, helvetica, sans-serif;
+	color:#686868  ;
+	font-size: 12px;
+
+}
+
+#bottom_right {
+	float: right;
+	display: inline-block;
+	font-family: arial, helvetica, sans-serif;
+	color:#686868  ;
+	font-size: 12px;
+}
+
+#footer {
+	border-top: 1px solid #D0D0D0;
+	width: 100%;
+	background-color: #F8F8F8;
+	font-family: arial, helvetica, sans-serif;
+	color:#686868  ;
+	font-size: 12px;
+	padding: 10px;
+}
+
+
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>> =NAV  */ 
+
+#grid {
+	padding: 8px;
+} 
+
+#sign_in {
+	color: white;
+	background-color: #0099FF;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: arial, helvetica, sans-serif;
+	padding: 6px 11px;
+	margin: 8px;
+}
+
+
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>> =SEARCH  */ 
+
+#search {
+	width: 480px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 15px;
+	text-align: center;
+
+}
+
+#button_google {
+	position: relative; 
+	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	padding: 7px;
+	border: 1px solid #D0D0D0  ;
+	background: #F8F8F8 ;
+	color: #484848  ;
+	font-family: arial, helvetica;
+	font-size: 10px;
+	font-weight: bold;
+
+}
+
+#button_lucky {
+	position: relative; 
+	display: inline-block;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	padding: 7px;
+	border: 1px solid #D0D0D0  ;
+	color: #484848  ;
+	background: #F8F8F8 ;
+	font-family: arial, helvetica;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>> =LINKS  */ 
+
+a {
+	text-decoration: none;
+	color: #686868;
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>> =TYPE  */ 
+
+
+#header p {
+	padding: 15px; 
+	font-size: 12px;
+	text-decoration: none;
+	color: black;
+	font-family: arial, helvetica;
+	color: #383838 ;
+	text-align: right;
+	padding: 10px;
+
+}
+
+
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>> =UNIVERSAL  */ 
+
+
+* {
+	font-family: arial, helvetica, sans-serif;
+}
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+/* ******** =COMMENTS ******** */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
